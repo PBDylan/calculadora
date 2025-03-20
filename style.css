@@ -68,3 +68,9 @@ a {
   color: aliceblue;
   text-decoration: none;
 }
+
+.clear {
+  color: #fff;
+  position: relative;
+  top: 100px;
+}
