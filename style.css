@@ -34,11 +34,17 @@ main {
 .results {
   height: 2.5rem;
   width: 16rem;
-  border: 1 px solid black;
+  border: 1px solid black;
   border-radius: 2rem;
   background-color: aliceblue;
   display: flex;
   justify-self: center;
+  align-items: center;
+  font-size: 1.5rem;
+  color: rgb(16, 16, 42);
+  font-weight: bold;
+  text-align: left;
+  padding: 1rem;
 }
 
 .teclas {
